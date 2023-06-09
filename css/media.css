@@ -1,0 +1,39 @@
+
+@media (max-width: 960px) {
+    .container{
+        min-width: 898px;
+    }
+
+    .logo{
+        max-width: 181px;
+    }
+    .location{
+        display: none;
+    }
+    .hero{
+        padding-top: 22%;
+    }
+    .hero__main{
+        padding-left: 8%;
+    }
+    .title{
+        font-size: 42px;
+    }
+    
+}
+@media (max-width: 768px) {
+.container{
+    max-width: 722px;
+}
+.logo{
+    max-width: 142px;
+}
+.header .nav, 
+.header__contact{
+    display: none;
+   
+
+}
+
+
+}
